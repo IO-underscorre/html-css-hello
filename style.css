@@ -17,4 +17,8 @@ h1 {
     font-style: normal;
     font-size: 90px;
     color: #ffffff;
+
+    text-align: center;
+    display: block;
+    margin: 40vh auto;
 }
