@@ -1,4 +1,4 @@
-htmlcss-hello
+html-css-hello
 ---
 Description
 Hello World page.
