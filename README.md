@@ -18,7 +18,7 @@ This project is a practice exercise to reinforce foundational skills in web deve
 # Italiano
 
 ## Descrizione
-Una pagina base "Hello World" creata con HTML e CSS, realizzata come parte di un corso di Full Stack Web Development.
+Una pagina base "Hello World" creata con HTML e CSS, realizzata come parte di un corso di Full Stack Web Development di Boolean.
 
 ## Scopo
 Questo progetto è un esercizio di pratica per rafforzare le competenze di base nello sviluppo web.
