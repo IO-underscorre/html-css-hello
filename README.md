@@ -1,21 +1,31 @@
-html-css-hello
+# English
+
+## Description
+A basic "Hello World" page built with HTML and CSS, created as part of a Full Stack Web Development course.
+
+## Purpose
+This project is a practice exercise to reinforce foundational skills in web development.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/IO-underscorre/html-css-hello.git
+   ```
+2. Open `index.html` in your browser.
+
 ---
-Description
-Hello World page.
 
-Languages & Tools
-HTML and CSS.
+# Italiano
 
-Purpose & Context
-Practice project for the Full Stack Web Development Course at Boolean.
+## Descrizione
+Una pagina base "Hello World" creata con HTML e CSS, realizzata come parte di un corso di Full Stack Web Development.
 
----
+## Scopo
+Questo progetto è un esercizio di pratica per rafforzare le competenze di base nello sviluppo web.
 
-Descrizione
-Pagina di Hello World.
-
-Linguaggi & Strumenti
-HTML e CSS.
-
-Scopo & Contesto
-Progetto di esercitazione del Corso in Full Stack Web Development di Boolean.
+## Installazione
+1. Clona il repository:
+   ```bash
+   git clone https://github.com/IO-underscorre/html-css-hello.git
+   ```
+2. Apri `index.html` nel tuo browser.
