@@ -1,7 +1,7 @@
 # English
 
 ## Description
-A basic "Hello World" page built with HTML and CSS, created as part of a Full Stack Web Development course.
+A basic "Hello World" page built with HTML and CSS, created as part of Boolean Full Stack Web Development course.
 
 ## Purpose
 This project is a practice exercise to reinforce foundational skills in web development.
